@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Ohai, I'm Agam 👋
+- 🌱 I’m currently learning backend and react-native
+- 💬 Ask me about all things Backend development
+- 👯 I’m looking to collaborate on backend development
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-ahdia-panatagama-theos-83b359112)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Meatball
 <!--
 **agamtheos/agamtheos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
