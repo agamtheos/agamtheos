@@ -1,5 +1,5 @@
 ### Ohai, I'm Agam 👋
-- 🌱 I’m currently learning backend and react
+- 🌱 I’m currently learning backend and React
 - 💬 Ask me about all things Backend development
 - 👯 I’m looking to collaborate on backend development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-ahdia-panatagama-theos-83b359112)
